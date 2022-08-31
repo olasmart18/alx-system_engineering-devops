@@ -14,4 +14,6 @@
 
 7-movethatfile script will move a file into another directory
 
-8-firtdelete script will delete the file in the directory 
+8-firtdelete script will delete the file in the directory
+
+9-firstdirdeletion script deleted the directory in the directory 
