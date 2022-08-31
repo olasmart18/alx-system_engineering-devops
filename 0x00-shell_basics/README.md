@@ -18,4 +18,6 @@
 
 9-firstdirdeletion script deleted the directory in the directory
 
-10-back script will return to the previous working directory 
+10-back script will return to the previous working directory
+
+11-lists prints all working directory including root direction and all hiden file 
