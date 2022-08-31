@@ -11,3 +11,5 @@
 5-listfilesdigitonly script will list files in digit format only
 
 6-firstdirectory script will create my_first_directory in to tmp directory
+
+7-movethatfile script will move a file into another directory 
