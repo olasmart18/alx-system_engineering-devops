@@ -9,3 +9,5 @@
 4-listmorefiles scrift will print all the files in dirctory in long format and the hidden files.
 
 5-listfilesdigitonly script will list files in digit format only
+
+6-firstdirectory script will create my_first_directory in to tmp directory
