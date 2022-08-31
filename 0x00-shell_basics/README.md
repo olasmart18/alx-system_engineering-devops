@@ -4,4 +4,6 @@
 
 2-bring me home script returns the working directory to user home directory
 
-3-listfiles script will print the files in the working directory in long format.
+3-listfiles script will print the files in the working directory in long format
+
+4-listmorefiles scrift will print all the files in dirctory in long format and the hidden files.
