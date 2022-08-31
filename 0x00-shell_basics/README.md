@@ -16,4 +16,6 @@
 
 8-firtdelete script will delete the file in the directory
 
-9-firstdirdeletion script deleted the directory in the directory 
+9-firstdirdeletion script deleted the directory in the directory
+
+10-back script will return to the previous working directory 
