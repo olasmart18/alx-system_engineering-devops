@@ -12,4 +12,6 @@
 
 6-firstdirectory script will create my_first_directory in to tmp directory
 
-7-movethatfile script will move a file into another directory 
+7-movethatfile script will move a file into another directory
+
+8-firtdelete script will delete the file in the directory 
