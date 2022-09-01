@@ -22,4 +22,6 @@
 
 11-lists prints all working directory including root direction and all hiden file
 
+12-file_type create a file when the file excute
+
 13-symbolic_link  
