@@ -8,4 +8,14 @@
 
 4- Empty, script will create an empty file
 
-5- Execute, scrite will add an execution mode to file
+5- Execute, script will add an execution mode to file
+
+6- Multiple permission, script will give a multitiple permission mode
+
+7- Everybody, script will give thesame permission mode to file
+
+8- James Bond, script will set a specific permission to file
+
+9- john Doe, script set a file to a specify mode
+
+10- Look in the mirror, script give permission to set a file mode to anothe file mode
